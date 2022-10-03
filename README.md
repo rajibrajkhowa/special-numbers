@@ -9,3 +9,7 @@ A number is categorized as "abundant number", if sum of its proper divisors is g
 A number is categorized as "deficient number", if sum of its proper divisors is less than the number itself. Some examples are all prime numbers are deficient number as they have a single proper divisor 1, all numbers of the form a^n, where "a" and "n" are positive integers (like 2^10, 8^7, 23^8, etc), etc.
 
 Caution: Please avoid entering very big numbers as the program will respond slowly, number theory related programs should use highly optimized and fast libraries, like in C we have pari lib and C++ we have NTL library
+
+Screenshots#
+
+![demo](https://user-images.githubusercontent.com/82666308/193574642-2a0eec8b-d7f4-4e60-b306-00f873eacfae.JPG)
